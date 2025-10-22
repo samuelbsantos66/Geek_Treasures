@@ -19,5 +19,5 @@ React + Vite + TailwindCSS + Shadcn/UI
 **Backend:**
 Flask + SQLAlchemy + PostgreSQL
 
-**Status**
+**Status:**
 Em desenvolvimento 🚧
